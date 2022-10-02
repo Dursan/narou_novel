@@ -1,4 +1,4 @@
 "g_name","to_name","to_ad"
-"DX01","杉山01","杉山01<tomoe.corporation@gmail.com>,杉山02<tomoecorp.gapps@gmail.com>"
-"DX02","杉山02","杉山02<tomoecorp.gapps@gmail.com>,杉山03<i_sugiyama@tomoe-corporation.co.jp>"
-"DX03","杉山03","杉山03<i_sugiyama@tomoe-corporation.co.jp>,杉山01<tomoe.corporation@gmail.com>"
+"Group01","MemberA01 MemberA03","Member01<MemberA@gmail.com>,Member02<MemberB@gmail.com>"
+"Group02","MemberA02 MemberA01","Member02<MemberB@gmail.com>,Member03<MemberC@gmail.com>"
+"Group03","MemberA03 MemberA02","Member03<MemberC@gmail.com>,Member01<MemberA@gmail.com>"
