@@ -325,7 +325,7 @@ class RentChk:
       self.chk_empty_t.pack(side = tk.TOP,fill = tk.X,anchor=tk.W,padx=(30,0),pady=20,expand=1)
   
   def button_rent_confirm_in(self):
-    mng={"dx7621is":"杉山", "dx7621af":"福澤", "dx7621ra":"新井","dx7621ts":"斉藤","dx7621ky":"屋敷","dx7621yf":"伏見"}
+    mng={"tester01":"tester01", "tester02":"tester02", "tester03":"tester03"}
     
     rent_entry=rent_confirming_entry.get()
     cnt=1
